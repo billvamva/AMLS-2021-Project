@@ -9,3 +9,18 @@ The notebooks:
 2. svm classification: Multiclass classification using SVM with HOG and GLCM.
 3. cnn classification: a multilayer CNN with FCN classifiction.
 4. resnet classification: feature extraction using ResNet50 and classification using SVM.
+
+
+If the structure of the folder follows the one in the google drive all the files should be ready to run. The CNN also includes a load model function to save time. 
+
+The packages required are
+
+- numpy
+- pandas
+- sklearn
+- skimage
+- pillow
+- tensorflow
+- pickle
+- os 
+- matplotlib
